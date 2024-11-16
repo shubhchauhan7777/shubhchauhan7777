@@ -1,4 +1,4 @@
-[![logo](https://raw.githubusercontent.com/smohata/smohata/master/resources/banner.png)
+![logo](https://raw.githubusercontent.com/smohata/smohata/master/resources/banner.png)
 <h1 align="center">Hi 👋, I'm Shubham Chauhan</h1>
 <h3 align="center">Aspiring Software Developer</h3>
 <img align="right" alt="Coding" width="270" height= "250" src="https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2843.jpg">
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shubhchauhan7777@gmail.com**
 
-- ⚡ Fun fact **When I'm not coding interactive web projects or crafting Java solutions, I relax by exploring new things, always eager to learn and expand my knowledge.**
+- ⚡ Fun fact **I love to learn and grow!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
