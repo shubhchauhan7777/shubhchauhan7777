@@ -1,4 +1,4 @@
-[![logo](https://github.com/shubhchauhan7777/shubhchauhan7777/blob/main/download.jpg)
+[![logo](https://raw.githubusercontent.com/smohata/smohata/master/resources/banner.png)
 <h1 align="center">Hi 👋, I'm Shubham Chauhan</h1>
 <h3 align="center">Aspiring Software Developer</h3>
 <img align="right" alt="Coding" width="270" height= "250" src="https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2843.jpg">
